@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Pedro E. S. Silva
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: in Nanosciences and Nanotechnology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: NOVA University Lisbon
+  url: "https://www.cenimat.fct.unl.pt/people/pedro-emanuel-santos-silva"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include MD simulations, elastic filaments and structural colours.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- MD Simulations
+- Elastic Filaments
+- Structural Colours
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Nanosciences and Nanotechnology
+    institution: University of Aveiro
+    year: 2018
+  - course: MSc in Physics
+    institution: University of Aveiro
+    year: 2010
+  - course: BSc in Physics
+    institution: University of Aveiro
     year: 2008
 
 # Social/Academic Networking
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:pess@ua.pt".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/silva_phd
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=jMXeWMcAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/p3d2
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Pedro E. S. Silva is a physicist with a strong background in computer simulations. His interests include the mechanisms ruling the actuation in diverse biological systems. In particular, he studied the shapes adopted by plant tendrils and, using similar structural modifications, he simulated and produced elastomeric fibres that adopt diverse geometries.
