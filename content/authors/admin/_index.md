@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Pedro E. S. Silva
+name: Pedro E. S. Silva, PhD
 
 # Username (this should match the folder name)
 authors:
