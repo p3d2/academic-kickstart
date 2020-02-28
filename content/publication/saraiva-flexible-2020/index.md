@@ -12,6 +12,6 @@ doi: "10.3390/cryst10020122"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Teste'
+  caption: 'Photographs of neat CNCs and CNC/HPC films with different content of HPC taken under uncollimated unpolarised white light.'
   focal_point: ""
   preview_only: false
