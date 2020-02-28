@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-<p style="text-align:justify">Pedro E. S. Silva is a physicist with a strong background in computer simulations. His interests include the mechanisms ruling the actuation in diverse biological systems. In particular, he studied the shapes adopted by plant tendrils and, using similar structural modifications, he simulated and produced elastomeric fibres that adopt diverse geometries.<\p>
+<p style="text-align:justify">Pedro E. S. Silva is a physicist with a strong background in computer simulations. His interests include the mechanisms ruling the actuation in diverse biological systems. In particular, he studied the shapes adopted by plant tendrils and, using similar structural modifications, he simulated and produced elastomeric fibres that adopt diverse geometries.</p>
