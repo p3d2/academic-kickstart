@@ -1,0 +1,18 @@
+# Theme metadata
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#58ab7d"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#877668"
+menu_text_active = "#a7b8b2"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "#f3efa8"
+home_section_even = "#dbcaa9"
