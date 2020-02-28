@@ -8,5 +8,9 @@ abstract: ""
 featured: false
 publication: "*Asymmetry in Plants*"
 doi: "10.1201/9780429492372-13"
+image:
+  caption: 'Photographs of neat CNCs and CNC/HPC films with different content of HPC taken under uncollimated unpolarised white light.'
+  focal_point: ""
+  preview_only: false
 ---
 
