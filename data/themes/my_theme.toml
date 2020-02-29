@@ -4,7 +4,6 @@ name = "my_theme"
 # Is theme light or dark?
 light = true
 
-<<<<<<< HEAD
 # Primary
 primary = "#B03C41"
 
@@ -17,17 +16,3 @@ menu_title = "#2b2b2b"
 # Home sections
 home_section_odd = "#F1CB81"
 home_section_even = "#84BB81"
-=======
-# Primary LOGO
-primary = "#dd5346"
-
-# Menu
-menu_primary = "#dbd3af"
-menu_text = "#324054"
-menu_text_active = "#629c9e"
-menu_title = "#2b2b2b"
-
-# Home sections
-home_section_odd = "#585757"
-home_section_even = "#dbd3af"
->>>>>>> 718b64a3b274add97abd44407409ef208455585a
