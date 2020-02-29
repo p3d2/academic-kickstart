@@ -4,15 +4,15 @@ name = "my_theme"
 # Is theme light or dark?
 light = true
 
-# Primary
-primary = "#58ab7d"
+# Primary LOGO
+primary = "#dd5346"
 
 # Menu
-menu_primary = "#fff"
-menu_text = "#877668"
-menu_text_active = "#a7b8b2"
+menu_primary = "#dbd3af"
+menu_text = "#324054"
+menu_text_active = "#629c9e"
 menu_title = "#2b2b2b"
 
 # Home sections
-home_section_odd = "#f3efa8"
-home_section_even = "#dbcaa9"
+home_section_odd = "#585757"
+home_section_even = "#dbd3af"
