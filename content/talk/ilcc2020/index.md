@@ -7,17 +7,17 @@ event_url: https://www.european-mrs.com/meetings/2020-spring-meeting?destination
 location: Strasbourg Convention Centre
 address:
   street:
-  city:
+  city: Strasbourg
   region:
   postcode:
-  country:
-summary:
+  country: France
+summary: Chirality inversion in cellulose-based materials
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-03-01T16:28:25Z
-date_end: 2020-03-01T16:28:25Z
+date: 2020-05-25T15:15:00Z
+# date_end: 2020-03-01T16:28:25Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
