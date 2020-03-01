@@ -64,36 +64,5 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
-
-ol {
-  list-style: none;
-  counter-reset: my-awesome-counter;
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0;
-  padding: 0;
-}
-ol li {
-  counter-increment: my-awesome-counter;
-  display: flex;
-  width: 50%;
-  font-size: 0.8rem;
-  margin-bottom: 0.5rem;
-}
-ol li::before {
-  content: "0" counter(my-awesome-counter);
-  font-weight: bold;
-  font-size: 3rem;
-  margin-right: 0.5rem;
-  font-family: 'Abril Fatface', serif;
-  line-height: 1;
-}
-
-
-
-body {
-  padding: 1rem;
-  font-family: sans-serif;
 }
 +++
