@@ -40,7 +40,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
+name: Follow
   url: https://twitter.com/silva_phd
   icon_pack: fab
   icon: twitter
