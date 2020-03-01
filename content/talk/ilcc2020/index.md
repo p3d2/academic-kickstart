@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ilcc2020"
-event:
+event: Academic Conference
 event_url:
 location:
 address:
