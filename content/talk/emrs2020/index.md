@@ -3,16 +3,16 @@
 
 title: "2020 Spring Meeting of the European Materials Research Society (E-MRS)"
 event: Academic Conference
-event_url:
-location:
+event_url: https://www.european-mrs.com/meetings/2020-spring-meeting?destination=node/2129
+location: Strasbourg Convention Centre
 address:
   street:
-  city:
+  city: Strasbourg
   region:
   postcode:
-  country:
-summary:
-abstract:
+  country: France
+summary: Chirality inversion in cellulose-based materials
+abstract: "Structures with helical shape are commonly found in nature at many scales, ranging from plant tendrils to molecules. Many organisms take advantage of the helical shape to fold, propel and assemble in a “smart” way. For instance, seeds of Erodium use a peculiar mechanism to seed dispersal. Seeds have the capability of drilling in the ground by undertaking several cycles of winding and unwinding. In animals, the cuticula of some beetles exhibits an iridescent cholesteric structure with a selective reflection of left circularly polarised light and transmission of right circularly polarised (RCP) light. Inspired by how helicity arises in nature, we investigated the mechanisms ruling the shaping of structures, which can find potential applications in micro and nanorobotics, soft-electronics and nanophotonics."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,7 +34,7 @@ featured: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Top"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
