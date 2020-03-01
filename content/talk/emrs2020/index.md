@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Emrs2020"
-event:
+title: "2020 Spring Meeting of the European Materials Research Society (E-MRS)"
+event: Academic Conference
 event_url:
 location:
 address:
