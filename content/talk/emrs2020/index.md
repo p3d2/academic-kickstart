@@ -12,18 +12,18 @@ address:
   postcode:
   country: France
 summary: Chirality inversion in cellulose-based materials
-abstract: <p align="justify">"Structures with helical shape are commonly found in nature at many scales, ranging from plant tendrils to molecules. Many organisms take advantage of the helical shape to fold, propel and assemble in a “smart” way. For instance, seeds of Erodium use a peculiar mechanism to seed dispersal. Seeds have the capability of drilling in the ground by undertaking several cycles of winding and unwinding. In animals, the cuticula of some beetles exhibits an iridescent cholesteric structure with a selective reflection of left circularly polarised light and transmission of right circularly polarised (RCP) light. Inspired by how helicity arises in nature, we investigated the mechanisms ruling the shaping of structures, which can find potential applications in micro and nanorobotics, soft-electronics and nanophotonics."</p>
+abstract: <p align="justify">Structures with helical shape are commonly found in nature at many scales, ranging from plant tendrils to molecules. Many organisms take advantage of the helical shape to fold, propel and assemble in a “smart” way. For instance, seeds of Erodium use a peculiar mechanism to seed dispersal. Seeds have the capability of drilling in the ground by undertaking several cycles of winding and unwinding. In animals, the cuticula of some beetles exhibits an iridescent cholesteric structure with a selective reflection of left circularly polarised light and transmission of right circularly polarised (RCP) light. Inspired by how helicity arises in nature, we investigated the mechanisms ruling the shaping of structures, which can find potential applications in micro and nanorobotics, soft-electronics and nanophotonics.</p>
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-03-01T17:01:45Z
-date_end: 2020-03-01T17:01:45Z
+date: 2020-05-25T15:15:00Z
+# date_end: 2020-03-01T17:01:45Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-03-01T17:01:45Z
+# publishDate: 2020-03-01T17:01:45Z
 
-authors: []
+authors: [P.E.S. Silva, A.P.C. Almeida, Ricardo Chagas, S. Fernandes, P.L. Almeida, M.H. Godinho]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -34,7 +34,7 @@ featured: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: "Left"
   preview_only: false
 
 # Custom links (optional).
