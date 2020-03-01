@@ -40,17 +40,17 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+name: Follow
+  url: https://twitter.com/silva_phd
+  icon_pack: fab
+  icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+# url_slides:
 
-url_code:
-url_pdf:
-url_video:
+# url_code:
+# url_pdf:
+# url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
