@@ -3,8 +3,8 @@
 
 title: "Ilcc2020"
 event: Academic Conference
-event_url:
-location:
+event_url: https://www.european-mrs.com/meetings/2020-spring-meeting?destination=node/2129
+location: Strasbourg Convention Centre
 address:
   street:
   city:
