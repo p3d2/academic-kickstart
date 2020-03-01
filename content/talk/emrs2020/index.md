@@ -21,7 +21,7 @@ date: 2020-05-25T15:15:00Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: 2020-03-01T17:01:45Z
+publishDate: 2020-03-01T17:01:45Z
 
 authors: [P.E.S. Silva, A.P.C. Almeida, Ricardo Chagas, S. Fernandes, P.L. Almeida, M.H. Godinho]
 tags: []
