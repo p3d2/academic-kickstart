@@ -1,24 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ilcc2020"
+title: "28th International Liquid Crystal Conference (ILCC2020)"
 event: Academic Conference
-event_url: https://www.european-mrs.com/meetings/2020-spring-meeting?destination=node/2129
-location: Strasbourg Convention Centre
+event_url: https://ilcc2020.org
+location: Faculty of Sciences of the University of Lisbon
 address:
   street:
-  city: Strasbourg
+  city: Lisbon
   region:
   postcode:
-  country: France
+  country: Portugal
 summary: Chirality inversion in cellulose-based materials
-abstract:
+abstract: <p align="justify"> Structures with helical shape are commonly found in nature at many scales, ranging from plant tendrils to molecules[1]. Many organisms take advantage of the helical shape to fold, propel and assemble in a “smart” way. For instance, the flowering plant Erodium uses a peculiar mechanism for seed dispersal. Seeds have the capability of drilling in the ground by undertaking several cycles of winding and unwinding[2]. In animals, the cuticula of some beetles exhibits an iridescent cholesteric structure with a selective reflection of left circularly polarised (LCP) light and transmission of right circularly polarised (RCP) light[3]. Inspired by how helicity arises in nature, we investigated the mechanisms ruling the shaping of helical assembled structures: humidity-responsive parts of Erodium awns were isolated and tuned, in which the chemical treatment inverts the handedness typically observed; responses to both LCP and RCP light were obtained in the same solid films from cellulose derivative cholesteric liquid crystalline solutions in the presence of a reactive solvent. These results can find potential applications in micro and nanorobotics, soft-electronics and nanophotonics. </p>
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-05-25T15:15:00Z
 # date_end: 2020-03-01T16:28:25Z
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-01T16:28:25Z
@@ -34,16 +34,16 @@ featured: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Follow
+  url: https://twitter.com/silva_phd
+  icon_pack: fab
+  icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
