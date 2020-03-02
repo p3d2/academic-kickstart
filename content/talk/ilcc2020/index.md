@@ -21,7 +21,7 @@ date: 2020-07-27T14:00:00Z
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-03-01T16:28:25Z
+publishDate: 2020-02-20T16:28:25Z
 
 authors: [Pedro E. S. Silva, Ana P. C. Almeida, Ricardo Chagas, Susete N. Fernandes, Pedro L. Almeida, Maria H. Godinho]
 tags: []
