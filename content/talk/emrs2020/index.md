@@ -46,7 +46,7 @@ links:
   icon: twitter
 - name: Conference page
   url: https://www.european-mrs.com/meetings/2020-spring-meeting?destination=node/2129
-  icon_pack: fab
+  icon_pack: fas
   icon: external-link-alt
 
 # Optional filename of your slides within your talk's folder or a URL.

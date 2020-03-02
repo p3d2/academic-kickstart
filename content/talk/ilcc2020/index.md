@@ -46,7 +46,7 @@ links:
   icon: twitter
 - name: Conference page
   url: https://ilcc2020.org
-  icon_pack: fab
+  icon_pack: fas
   icon: external-link-alt
 
 # Optional filename of your slides within your talk's folder or a URL.
