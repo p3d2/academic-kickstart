@@ -44,6 +44,10 @@ links:
   url: https://twitter.com/silva_phd
   icon_pack: fab
   icon: twitter
+- name: Conference page
+  url: https://ilcc2020.org
+  icon_pack: fab
+  icon: external-link-alt
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
