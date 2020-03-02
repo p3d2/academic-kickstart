@@ -23,14 +23,14 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-03-01T16:28:25Z
 
-authors: []
+authors: [Pedro E. S. Silva, Ana P. C. Almeida, Ricardo Chagas, Susete N. Fernandes, Pedro L. Almeida, Maria H. Godinho]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
