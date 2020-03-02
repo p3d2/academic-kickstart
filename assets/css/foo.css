@@ -10,14 +10,14 @@ ol {
   margin: 0;
   padding: 0;
 }
-ol li {
+ol li_list {
   counter-increment: my-awesome-counter;
   display: flex;
   width: 50%;
   font-size: 0.8rem;
   margin-bottom: 0.5rem;
 }
-ol li::before {
+ol li_list::before {
   content: "0" counter(my-awesome-counter);
   font-weight: bold;
   font-size: 3rem;
