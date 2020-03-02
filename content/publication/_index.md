@@ -1,4 +1,4 @@
-+++
+---
 title: Publications
 
 # View.
@@ -12,11 +12,4 @@ view: 4
 header:
   caption: ""
   image: ""
-
-[advanced]
- # Custom CSS.
- css_style = "css/foo.css"
-
- # CSS class.
- css_class = ""
-+++
+---
