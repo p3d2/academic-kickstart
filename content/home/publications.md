@@ -60,18 +60,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS.
- css_style = "ol {
-  list-style: none;
-  counter-reset: my-awesome-counter;
-}
-ol li {
-  counter-increment: my-awesome-counter;
-}
-ol li::before {
-  content: counter(my-awesome-counter) ". ";
-  color: red;
-  font-weight: bold;
-}"
+ css_style = "css/foo.css"
 
  # CSS class.
  css_class = ""
