@@ -15,7 +15,8 @@ date_format = "Jan 2006"
 [design.background]
   image = "back.png" # Name of image in `static/img/`.
   image_darken = 0.5 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover" #  Options are cover|contain|initial
+  image_size = "initial" #  Options are cover|contain|initial
+  image_repeat = "repeat"
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
