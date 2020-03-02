@@ -107,7 +107,7 @@ appointment_url = "https://calendly.com"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/silva_phd"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:ps_ycho13?call"},
-  {icon = "orcid", icon_pack = "fab", name = "Orcid", link = "https://orcid.org/0000-0002-8783-8740"},
+  {icon = "orcid", icon_pack = "fab", name = "Orcid", link = "https://orcid.org/0000-0002-8783-8740"}
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
