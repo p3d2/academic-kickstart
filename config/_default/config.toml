@@ -71,5 +71,5 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_type = "publication_types"
   author = "authors"
 
-  [params]
-    custom_css = ["css/foo.css"]
+[params]
+  custom_css = ["css/foo.css"]
