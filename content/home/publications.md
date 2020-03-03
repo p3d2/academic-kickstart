@@ -65,21 +65,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
- .col-12.col-lg-8 {
-   list-style: none;
-   counter-reset: c1 10;
- }
- .article-title.mb-0.mt-0 {
-   counter-increment: c1 -1;
-   margin-bottom: 5px;
- }
- .article-title.mb-0.mt-0:before {
-   margin-right: 10px;
-   content: counter(c1) " - ";
-   border-radius: 100%;
-   width: 1.2em;
-   text-align: right;
-   display: inline-block;
- }
-
 +++
