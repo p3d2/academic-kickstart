@@ -6,7 +6,7 @@
   counter-increment: c1 -1;
   margin-bottom: 5px;
 }
-.grid-sizer.col-lg-12.isotope-item:before {
+.pub-list-item:before {
   margin-right: 10px;
   content: counter(c1) " -";
   border-radius: 100%;
