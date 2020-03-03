@@ -1,12 +1,12 @@
-ol {
+div class="view-list-item" {
   list-style: none;
   counter-reset: item;
 }
-div class="view-list-item" {
+i {
   counter-increment: item;
   margin-bottom: 5px;
 }
-div class="view-list-item":before {
+i:before {
   margin-right: 10px;
   content: counter(item);
   background: lightblue;
@@ -15,4 +15,3 @@ div class="view-list-item":before {
   width: 1.2em;
   text-align: center;
   display: inline-block;
-}
