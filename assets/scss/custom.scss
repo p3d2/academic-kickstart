@@ -9,7 +9,7 @@
 }
 .grid-sizer.col-lg-12.isotope-item:before{
   margin-right: 10px;
-  content: counter(item);
+  content: calc(9-counter(item));
   border-radius: 100%;
   width: 1.2em;
   text-align: right;
