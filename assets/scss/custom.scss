@@ -1,15 +1,15 @@
 .container-publications {
   list-style: none;
-  counter-reset: item;
+  counter-reset: item 10;
 }
 
 .grid-sizer.col-lg-12.isotope-item {
-  counter-increment: item;
+  counter-increment: item -1;
   margin-bottom: 5px;
 }
 .grid-sizer.col-lg-12.isotope-item:before{
   margin-right: 10px;
-  content: 9 - counter(item);
+  content: counter(item);
   border-radius: 100%;
   width: 1.2em;
   text-align: right;
