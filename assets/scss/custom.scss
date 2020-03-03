@@ -2,16 +2,14 @@
   list-style: none;
   counter-reset: item;
 }
-.media-body {
+.article-title.mb-0.mt-0 {
   counter-increment: item;
   margin-bottom: 5px;
 }
-.media-body:before {
+.article-title.mb-0.mt-0:before {
   margin-right: 10px;
   content: counter(item);
-  background: lightblue;
   border-radius: 100%;
-  color: white;
   width: 1.2em;
   text-align: center;
   display: inline-block;
