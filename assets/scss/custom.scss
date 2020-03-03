@@ -7,15 +7,15 @@
   counter-reset: item;
 }
 
-.far.fa-file-alt.pub-icon{
+.grid-sizer.col-lg-12.isotope-item {
   counter-increment: item;
   margin-bottom: 5px;
 }
-.far.fa-file-alt.pub-icon:before{
+.grid-sizer.col-lg-12.isotope-item:before{
   margin-right: 10px;
   content: counter(item);
   border-radius: 100%;
-  width: 3em;
+  width: 1.2em;
   text-align: right;
   display: inline-block;
 }
