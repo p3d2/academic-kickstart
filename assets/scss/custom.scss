@@ -1,12 +1,12 @@
-.view-list-item {
+.media-body {
   list-style: none;
   counter-reset: item;
 }
-i {
+.media-body {
   counter-increment: item;
   margin-bottom: 5px;
 }
-i:before {
+.media-body:before {
   margin-right: 10px;
   content: counter(item);
   background: lightblue;
