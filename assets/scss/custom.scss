@@ -1,13 +1,14 @@
 .container-publications {
   list-style: none;
-  counter-reset: c1 10;
+  counter-reset: c1;
+  counter-increment: c1 +10;
 }
 
-.grid-sizer.col-lg-12.isotope-item {
+.article-metadata.li-cite-author {
   counter-increment: c1 -1;
   margin-bottom: 5px;
 }
-.grid-sizer.col-lg-12.isotope-item:before{
+.article-metadata.li-cite-author:before{
   margin-right: 10px;
   content: counter(c1);
   border-radius: 100%;
