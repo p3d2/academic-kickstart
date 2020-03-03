@@ -1,4 +1,4 @@
-.pub-list-item {
+.universal-wrapper {
   list-style: none;
   counter-reset: c1 10;
 }
@@ -6,7 +6,7 @@
   counter-increment: c1 -1;
   margin-bottom: 5px;
 }
-.pub-list-item:before {
+.article-metadata.li-cite-author:before {
   margin-right: 10px;
   content: counter(c1);
   border-radius: 100%;
