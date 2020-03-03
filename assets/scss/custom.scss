@@ -2,6 +2,23 @@
   list-style: none;
   counter-reset: item;
 }
+.container-publications {
+  list-style: none;
+  counter-reset: item;
+}
+
+.far.fa-file-alt.pub-icon{
+  counter-increment: item;
+  margin-bottom: 5px;
+}
+.far.fa-file-alt.pub-icon:before{
+  margin-right: 10px;
+  content: counter(item);
+  border-radius: 100%;
+  width: 3em;
+  text-align: right;
+  display: inline-block;
+}
 .article-title.mb-0.mt-0 {
   counter-increment: item;
   margin-bottom: 5px;
