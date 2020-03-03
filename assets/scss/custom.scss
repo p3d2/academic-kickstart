@@ -1,7 +1,6 @@
 .container-publications {
   list-style: none;
-  counter-reset: c1;
-  counter-increment: c1 +10;
+  counter-reset: c1 10 ;
 }
 
 .article-metadata.li-cite-author {
