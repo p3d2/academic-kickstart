@@ -1,6 +1,6 @@
 ---
 title: "Computational Design of Superhelices by Local Change of the Intrinsic Curvature"
-date: 2019-01-01
+date: 2019-07-08
 publishDate: 2020-02-28T10:56:31.544961Z
 authors: ["Pedro E. S. Silva", "Maria Helena Godinho", "Fernão Vístulo de Abreu"]
 publication_types: ["6"]
