@@ -8,7 +8,7 @@
 }
 .article-metadata.li-cite-author:before {
   margin-right: 10px;
-  content: counter(c1);
+  content: counter(c1) " - ";
   border-radius: 100%;
   width: 1.2em;
   text-align: right;
