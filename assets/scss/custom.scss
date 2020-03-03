@@ -2,13 +2,13 @@
   list-style: none;
   counter-reset: c1 10;
 }
-.pub-list-item {
+.grid-sizer.col-lg-12.isotope-item {
   counter-increment: c1 -1;
   margin-bottom: 5px;
 }
-.pub-list-item:before {
+.grid-sizer.col-lg-12.isotope-item:before {
   margin-right: 10px;
-  content: counter(c1) "-";
+  content: counter(c1) " -";
   border-radius: 100%;
   width: 1.2em;
   text-align: right;

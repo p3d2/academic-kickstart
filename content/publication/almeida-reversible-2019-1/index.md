@@ -1,6 +1,6 @@
 ---
 title: "Reversible Water Driven Chirality Inversion in Cellulose-Based Helices Isolated from Erodium Awns"
-date: 2019-01-01
+date: 2019-03-01
 publishDate: 2020-02-28T10:56:31.529035Z
 authors: ["Ana P. C. Almeida", "Lara Querciagrossa", "Pedro E. S. Silva", "Filipa Gonçalves", "João P. Canejo", "Pedro L. Almeida", "Maria Helena Godinho", "Claudio Zannoni"]
 publication_types: ["2"]
