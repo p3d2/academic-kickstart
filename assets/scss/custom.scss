@@ -1,7 +1,6 @@
 .container-publications {
   list-style: none;
-  counter-reset: item;
-  counter-increment: item +10;
+  counter-set: item 10;
 }
 
 .grid-sizer.col-lg-12.isotope-item {
