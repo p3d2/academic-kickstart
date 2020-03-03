@@ -3,11 +3,11 @@
   counter-reset: c1 10 ;
 }
 
-.article-metadata.li-cite-author. {
+.li-cite-author {
   counter-increment: c1 -1;
   margin-bottom: 5px;
 }
-.article-metadata.li-cite-author.:before{
+.li-cite-author:before {
   margin-right: 10px;
   content: counter(c1);
   border-radius: 100%;
