@@ -2,11 +2,11 @@ ol {
   list-style: none;
   counter-reset: item;
 }
-li {
+li_list {
   counter-increment: item;
   margin-bottom: 5px;
 }
-li:before {
+li_list:before {
   margin-right: 10px;
   content: counter(item);
   background: lightblue;
