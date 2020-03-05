@@ -15,6 +15,34 @@
   display: inline-block;
 }
 
-body.dark {
+.search-header {
+  background-color: "#2b2b2b";
+}
+
+.search-results {
+  background-color: "#2b2b2b";
+}
+
+.ais-search-box--input {
+  background-color: "#2b2b2b";
+}
+
+#search-query {
+  background-color: "#2b2b2b";
+}
+
+.form-control:focus {
+  background-color: "#2b2b2b";
+}
+
+table {
+  background-color: "#2b2b2b";
+}
+
+select {
+  background-color: "#2b2b2b";
+}
+
+.card-simple {
   background-color: "#2b2b2b";
 }
