@@ -7,10 +7,10 @@
   margin-bottom: 5px;
 }
 .article-metadata.li-cite-author:before {
-  margin-right: 10px;
-  content: counter(c1) " - ";
+  margin-right: 0px;
+  font-weight: bold;
+  content: counter(c1) ".";
   border-radius: 100%;
-  width: 1.2em;
   text-align: right;
   display: inline-block;
 }
