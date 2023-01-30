@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Postdoctoral researcher"
+  title = "Postdoctoral researcher - ModelCom: Autonomously adapting and communicating modular textiles"
   company = "Aalto University"
   company_url = ""
   location = "Espoo"
