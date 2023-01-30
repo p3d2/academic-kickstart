@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "my_theme"
+theme = "minimal" #"my_theme"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -81,19 +81,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "pess@ua.pt"
-phone = "+351 910 594 210"
+email = "pedro.silva@aalto.fi"
+phone = "+358 40 484 3063"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Dep. of Materials Science, Campus de Caparica", city = "Caparica", region = "", postcode = "2829-516", country = "Portugal", country_code = "PT"}
+address = {street = "Dep. of Chemistry and Materials Science, School of Chemical Engineering, Aalto University", city = "Espoo", region = "", postcode = "02150", country = "Finland", country_code = "FI"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.6605677", longitude = "-9.2035669"}
+coordinates = {latitude = "60.1831009", longitude = "24.8241896"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building II and go to Office 111"
+directions = "Office C147"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
