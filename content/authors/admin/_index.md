@@ -14,16 +14,17 @@ role: in Nanosciences and Nanotechnology
 
 # Organizations/Affiliations
 organizations:
-- name: NOVA University Lisbon
-  url: "https://www.cenimat.fct.unl.pt/people/pedro-emanuel-santos-silva"
+- name: Aalto University
+  url: "https://www.aalto.fi/en/department-of-chemistry-and-materials-science/mmd-team"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include MD simulations, elastic filaments and structural colours.
+bio: Pedro E. S. Silva is a Ph.D. in Nanosciences and Nanotechnologies by the University of Aveiro (Portugal, 2018). Since 2021 integrates MMD group at Aalto University, investigating innovative textiles capable of shape-shifting. Apart from conducting research, Pedro represents the School of Chemical Engineering as a data agent in the research data management network of Aalto University.
 
 interests:
 - MD Simulations
 - Elastic Filaments
 - Structural Colours
+- Active textiles
 
 education:
   courses:
@@ -73,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-<p style="text-align:justify">Pedro E. S. Silva is a physicist with a strong background in computer simulations. His interests include the mechanisms ruling the actuation in diverse biological systems. In particular, he studied the shapes adopted by plant tendrils and, using similar structural modifications, he simulated and produced elastomeric fibres that adopt diverse geometries.</p>
+<p style="text-align:justify">Pedro E. S. Silva is a Ph.D. in Nanosciences and Nanotechnologies by the University of Aveiro (Portugal, 2018). Since 2021 integrates MMD group at Aalto University, investigating innovative textiles capable of shape-shifting. Apart from conducting research, Pedro represents the School of Chemical Engineering as a data agent in the research data management network of Aalto University.</p>
