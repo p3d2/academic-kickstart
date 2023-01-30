@@ -26,12 +26,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Postdoctoral researcher"
+  company = "Aalto University"
+  company_url = ""
+  location = "Espoo"
+  date_start = "2021-06-01"
+  date_end = ""
+
+[[experience]]
   title = "Research fellow - CellColor: Fabricating cellulose nanocomposites for structural coloration"
   company = "NOVA University Lisbon"
   company_url = ""
   location = "Caparica"
   date_start = "2018-07-14"
-  date_end = ""
+  date_end = "2021-05-31"
 
 [[experience]]
   title = "MSc fellow - Fibers networks: Design and Computational simulations"
